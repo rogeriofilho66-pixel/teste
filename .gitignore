@@ -1,1 +1,8 @@
 .claude/settings.local.json
+videos/**/*.mp4
+videos/**/*.mov
+videos/**/*.mp3
+videos/**/*.wav
+videos/**/edit*/
+.claude/skills/video-use/.env
+__pycache__/
